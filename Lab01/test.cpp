@@ -10,4 +10,5 @@ int main()
     *p=b;
     cout<<p<<endl;
     cout<<*p<<endl;
+    cout<<endl;
 }
