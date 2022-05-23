@@ -12,4 +12,5 @@ int main()
     cout<<*p<<endl;
     cout<<endl;
     cout<<endl;
+    cout<<endl;
 }
